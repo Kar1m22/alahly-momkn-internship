@@ -37,11 +37,11 @@ fun main(){
 
 
 fun fizzBuzz(x: Int) : String {
-    when {
-        x % 3 == 0 && x % 5 == 0 -> return "FizzBuzz"
-        x % 3 == 0 -> return "Fizz"
-        x % 5 == 0 -> return "Buzz"
-        else -> return x.toString()
+   return when {
+        x % 3 == 0 && x % 5 == 0 ->  "FizzBuzz"
+        x % 3 == 0 ->  "Fizz"
+        x % 5 == 0 ->  "Buzz"
+        else ->  x.toString()
     }
 }
 
