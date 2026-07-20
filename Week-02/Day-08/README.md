@@ -1,7 +1,6 @@
 # Day 08 - Sealed Classes & Enums 
 
 ## Task Description
-Model a real-world payment system using:
 1. Model a **PaymentResult** `sealed class` (Success, Error, Pending) with associated data.
 2. Create a **PaymentMethod** `enum class` (CASH, CARD, WALLET, BANK_TRANSFER) with properties
    (e.g., displayName and requiresInternet), then use a when expression to display information about each payment method.
