@@ -4,7 +4,6 @@ data class Transaction(
     val transactionType : String,
     val amount : Double
 )
-
 class BankAccount(
     val accountNumber : Int,
     var balance : Double,

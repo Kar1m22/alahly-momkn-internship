@@ -10,7 +10,7 @@ The internship is structured week-by-week, focusing on building solid foundation
 | 📅 Timeline | 📘 Focus Area               |        📂 Quick Access        |
 | :---: |:----------------------------|:-----------------------------:|
 | **Week 01** | Kotlin Fundamentals I       | [Explore Week 01](./Week-01/) |
-| **Week 02** | Kotlin Fundamentals II      |               -               |
+| **Week 02** | Kotlin Fundamentals II      | [Explore Week 02](./Week-02/) |
 | **Week 03** | Android Fundamentals        |               -               |
 | **Week 04** | Architecture (MVVM + Clean) |               -               |
 
