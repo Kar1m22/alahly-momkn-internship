@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Day-15</string>
+    <string name="student_age">student age</string>
+    <string name="student_id">student id</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_email">Student Email</string>
+    <string name="student_id_format">ID : %1$d</string>
+    <string name="student_age_format">Age : %1$d</string>
+</resources>

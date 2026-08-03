@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+
+    <string name="student_age">عمر الطالب</string>
+    <string name="student_id">الرقم التعريفي للطالب </string>
+    <string name="student_name">أسم الطالب</string>
+    <string name="student_email">ايميل الطالب</string>
+    <string name="student_id_format">الرقم التعريفي : %1$d</string>
+    <string name="student_age_format">العمر : %1$d</string>
+
+</resources>
