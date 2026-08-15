@@ -1,8 +1,8 @@
 package com.example.day_14
 
-data class Students (
+data class Contact (
     val name: String,
     val email: String,
-    val id: Int,
-    val age: Int
+    val phone: String,
+    val address: String
 )

@@ -7,21 +7,27 @@
     android:padding="24dp">
 
     <TextView
-        android:id="@+id/tvStudentId"
+        android:id="@+id/tvContactName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="26sp"
         android:textStyle="bold"
-        android:text="student id"
         android:layout_marginTop="16dp" />
 
     <TextView
-        android:id="@+id/tvStudentAge"
+        android:id="@+id/tvContactPhone"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
         android:textColor="#666666"
-        android:text="student age"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/tvContactAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#666666"
         android:layout_marginTop="8dp" />
 
 </LinearLayout>

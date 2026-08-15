@@ -11,12 +11,15 @@ class DetailActivity: AppCompatActivity(){
         binding = ActivityDetailBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        val id = intent.getIntExtra("STUDENT_ID",0)
-        val age = intent.getIntExtra("STUDENT_AGE",0)
+        val name = intent.getStringExtra("CONTACT_NAME") ?: "N/A"
+        val phone = intent.getStringExtra("CONTACT_PHONE")?: "N/A"
+        val address = intent.getStringExtra("CONTACT_ADDRESS")?: "N/A"
 
 
-        binding.tvStudentId.text = "ID : $id"
-        binding.tvStudentAge.text = "Age : $age"
+
+        binding.tvContactName.text = "Name : $name"
+        binding.tvContactPhone.text = "Phone : $phone"
+        binding.tvContactAddress.text = "Address : $address"
 
     }
 }
