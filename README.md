@@ -11,8 +11,8 @@ The internship is structured week-by-week, focusing on building solid foundation
 | :---: |:----------------------------|:-----------------------------:|
 | **Week 01** | Kotlin Fundamentals I       | [Explore Week 01](./Week-01/) |
 | **Week 02** | Kotlin Fundamentals II      | [Explore Week 02](./Week-02/) |
-| **Week 03** | Android Fundamentals        | [Explore Week 03](./Weel-03/) |
-| **Week 04** | Architecture (MVVM + Clean) |               -               |
+| **Week 03** | Android Fundamentals        | [Explore Week 03](./Week-03/) |
+| **Week 04** | Architecture (MVVM + Clean) | [Explore Week 04](./Week-04/) |
 
 > 💡 *Note: Each week contains individual daily sub-folders (`Day-01`, `Day-02`, etc.) equipped with their own dedicated README files and execution screenshots for granular review.*
 
